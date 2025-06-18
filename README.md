@@ -1,2 +1,2 @@
-# IntroductionPage
+# Introduction Page
 Introduction Page
